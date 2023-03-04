@@ -88,9 +88,9 @@ span {
     margin-right: 20px;
 }
 
-/*.social-links a:hover {
+.social-links a:hover {
     color: #24A8DF;
-}*/
+}
 
 #icon {
     width: 30px;
@@ -184,7 +184,7 @@ span {
     width: 200px;
 }
 
-.social-links ul {
+/*.social-links ul {
     position: relative;
     display: flex;
 }
